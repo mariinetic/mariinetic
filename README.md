@@ -27,10 +27,8 @@
 
 <p align="left">
 📈 Software de produtividade:
-  <img src="https://img.shields.io/badge/Microsoft_Office-FF69B4?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-FF69B4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
-  <img src="https://img.shields.io/badge/Microsoft_Access-FF69B4?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access"/>
   <img src="https://img.shields.io/badge/Microsoft_Word-FF69B4?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
   <img src="https://img.shields.io/badge/Microsoft_Teams-FF69B4?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams"/>
 </p>
