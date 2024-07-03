@@ -8,7 +8,8 @@
 </p>
 
 <p align="left">
- 🗃 Tecnologias: <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+ 🗃 Tecnologias:
+  <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -19,7 +20,8 @@
 </p>
 
 <p align="left">
-  💻 Ferramentas:  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  💻 Ferramentas: 
+ <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Intellij-FF69B4?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
  <img src="https://img.shields.io/badge/VSCode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
@@ -38,7 +40,7 @@
 </p>
 
 <p align="left">
-  ✉️ Me encontre aqui!: ⤵
+ ✉️ Me encontre aqui!: ⤵
 </p>
 
 <p align="left">
