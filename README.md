@@ -7,8 +7,10 @@
 
 </p>
 
+
 <p align="left">
- 🗃 Tecnologias:
+ 
+ **🗃 Tecnologias:**
   <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -20,7 +22,8 @@
 </p>
 
 <p align="left">
-  💻 Ferramentas: 
+ 
+  **💻 Ferramentas:**
  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Intellij-FF69B4?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
@@ -28,7 +31,8 @@
 </p>
 
 <p align="left">
-📈 Software de produtividade:
+ 
+**📈 Software de produtividade:**
  <img src="https://img.shields.io/badge/Excel-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/PowerPoint-FF69B4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
 <img src="https://img.shields.io/badge/Word-FF69B4?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
@@ -40,7 +44,8 @@
 </p>
 
 <p align="left">
- ✉️ Me encontre aqui!: ⤵
+ 
+ **✉️Me encontre aqui!:** ⤵
 </p>
 
 <p align="left">
