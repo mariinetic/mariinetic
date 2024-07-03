@@ -22,15 +22,17 @@
   💻 Ferramentas:  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Intellij-FF69B4?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+ <img src="https://img.shields.io/badge/VSCode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 </p>
 
 <p align="left">
 📈 Software de produtividade:
-  <img src="https://img.shields.io/badge/Microsoft_Excel-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-FF69B4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
-  <img src="https://img.shields.io/badge/Microsoft_Word-FF69B4?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
-  <img src="https://img.shields.io/badge/Microsoft_Teams-FF69B4?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams"/>
+ <img src="https://img.shields.io/badge/Excel-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/PowerPoint-FF69B4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
+<img src="https://img.shields.io/badge/Word-FF69B4?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
+<img src="https://img.shields.io/badge/Teams-FF69B4?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
+<img src="https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/Trello-FF69B4?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </p>
 
 </p>
