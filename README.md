@@ -39,6 +39,10 @@
 <img src="https://img.shields.io/badge/Teams-FF69B4?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
 <img src="https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/Trello-FF69B4?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+<img src="https://img.shields.io/badge/Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+
+
+
 </p>
 
 </p>
