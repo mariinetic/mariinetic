@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+
 
 </p>
 
@@ -31,17 +33,15 @@
   <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Intellij-FF69B4?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
  <img src="https://img.shields.io/badge/VSCode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/Eclipse-FF69B4?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
 </p>
 
 <p align="left">
  
 **📈 Software de produtividade:**
- <img src="https://img.shields.io/badge/Excel-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/PowerPoint-FF69B4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
-<img src="https://img.shields.io/badge/Word-FF69B4?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
-<img src="https://img.shields.io/badge/Teams-FF69B4?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
+ <img src="https://img.shields.io/badge/Microsoft%20Office-FF69B4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
 <img src="https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Trello-FF69B4?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+<img src="https://img.shields.io/badge/Trello-FF69B4?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> 
 <img src="https://img.shields.io/badge/Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
 
 </p>
