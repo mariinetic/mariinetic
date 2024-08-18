@@ -6,7 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariinetic&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> 
- Sou uma desenvolvedora atualmente focada no backend apaixonada por criar soluções robustas e eficientes. Adoro desafios e estou sempre buscando aprender e me aprimorar na área de desenvolvimento. Vamos construir algo incrível juntos! 🚀
+ 
+  **Sou uma desenvolvedora atualmente focada no backend apaixonada por criar soluções robustas e eficientes. Adoro desafios e estou sempre buscando aprender e me aprimorar na área de desenvolvimento. Vamos construir algo incrível juntos! 🚀**
+
 
 </p>
 
