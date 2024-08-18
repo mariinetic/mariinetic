@@ -37,18 +37,6 @@
 
 <p align="left">
  
-**📈 Software de produtividade:**
- <img src="https://img.shields.io/badge/Microsoft%20Office-FF69B4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
-<img src="https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Trello-FF69B4?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> 
-<img src="https://img.shields.io/badge/Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-
-</p>
-
-</p>
-
-<p align="left">
- 
  **✉️Me encontre aqui!:** ⤵
 </p>
 
