@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
 
 
 </p>
