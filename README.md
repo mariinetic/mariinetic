@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-Intellij-FF69B4?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
  <img src="https://img.shields.io/badge/VSCode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-<img src="https://img.shields.io/badge/Eclipse-FF69B4?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
 </p>
 
 <p align="left">
