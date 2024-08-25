@@ -3,8 +3,7 @@
 
 <img src="https://github.com/mariinetic/mariinetic/assets/162724918/63a4e61a-f26b-4474-bf93-db288e598dce" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariinetic&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariinetic&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> 
  
   **Sou uma desenvolvedora atualmente focada no backend apaixonada por criar soluções robustas e eficientes. Adoro desafios e estou sempre buscando aprender e me aprimorar na área de desenvolvimento. Vamos construir algo incrível juntos! 🚀**
