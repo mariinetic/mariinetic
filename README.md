@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariinetic&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> 
  
-  **I'm a developer passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing togethe.! 🩷**
+  I'm a developer passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing together! 🩷
 
 
 </p>
