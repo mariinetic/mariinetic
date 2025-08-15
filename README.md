@@ -1,13 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a66ac4af-ce07-438b-999e-ea5b364d3d55" 
+       alt="Imagem" 
+       style="max-width: 60%; height: auto; ">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&width=435&lines=Hello+my+name+is+Mari!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/76acb745-9788-42a9-b026-d12c2af4bba4" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
 
-<img src="https://github.com/mariinetic/mariinetic/assets/162724918/63a4e61a-f26b-4474-bf93-db288e598dce" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariinetic&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> 
  
-  **I'm a developer currently focused on the backend, passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing together.! 🚀**
+  **I'm a developer passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing togethe.! 🩷**
 
 
 </p>
