@@ -8,8 +8,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariinetic&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> 
  
   I'm a developer passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing together! 🩷
 
@@ -29,13 +27,13 @@
 </p>
 
 <p align="left">
-  <a href="mailto:marianaoliveiry18@gmail.com" title="Gmail">
+  <a href="mailto:marianaoliveiray21@gmail.com title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF69B4?style=flat-square&labelColor=FF69B4&logo=gmail&logoColor=white&link=mailto:marianaoliveiry18@gmail.com" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/oliveirasmari/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mariana.oliveira59@fatec.sp.gov.br" title="Outlook">
+  <a href="mailto:mariana.oliveira7@aluno.cps.sp.gov.br" title="Outlook">
   <img src="https://img.shields.io/badge/-Outlook-FF69B4?style=flat-square&labelColor=FF69B4&logo=microsoft-outlook&logoColor=white&link=mailto:mariana.oliveira59@fatec.sp.gov.br" alt="Outlook"/>
    
 </a>
