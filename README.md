@@ -9,7 +9,7 @@
 <br>
 
  
-  I'm a developer passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing together! 🩷
+  I'm a developer passionate about creating robust and efficient solutions. I love challenges and I'm always looking to learn and improve in the development area. Let's build something amazing together!
 
 
 </p>
