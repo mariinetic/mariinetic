@@ -23,7 +23,7 @@
 
 <p align="left">
  
- **✉️Meet me here!** ⤵
+ **✉️Meet me here!**
 </p>
 
 <p align="left">
