@@ -13,9 +13,8 @@
 
 ### Hi there! I'm Mariana 👋
 
-I'm a developer and AI enthusiast currently studying **Database Management** at FATEC São José dos Campos (graduating in 2026), and working as an **AI & Full-Stack Development intern at Ericsson**.
+I'm a Software Developer and early-career AI Engineer at Ericsson, currently pursuing a degree in **Database Management** at FATEC São José dos Campos (2024–2026). Passionate about software engineering and AI, I enjoy building scalable backend systems and intelligent solutions while continuously learning and taking on new challenges.
 
-I'm passionate about building intelligent, scalable solutions — combining well-structured backends with AI-driven automation. I love challenges and I'm always looking to learn, grow, and collaborate on meaningful projects.
 
 > *Let's build something amazing together!*
 
