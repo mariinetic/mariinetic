@@ -42,9 +42,13 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 
 **AI & Machine Learning**
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Backend**
 
@@ -58,6 +62,8 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases**
 
@@ -65,6 +71,7 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 **DevOps & Tools**
 
