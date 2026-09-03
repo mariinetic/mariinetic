@@ -11,7 +11,7 @@
      width="200px" 
      align="right">
 
-### Hi there! I'm Mariana 👋
+### Hi there! I'm Mariana 💗
 
 I'm a Software Developer and early-career AI Engineer at Ericsson, currently pursuing a degree in **Database Management** at FATEC São José dos Campos (2024–2026). Passionate about software engineering and AI, I enjoy building scalable backend systems and intelligent solutions while continuously learning and taking on new challenges.
 
