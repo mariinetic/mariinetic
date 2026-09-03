@@ -42,7 +42,7 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 
 **AI & Machine Learning**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
