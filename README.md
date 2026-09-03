@@ -1,3 +1,5 @@
+<img width="1000" height="15" alt="200_cropped" src="https://github.com/user-attachments/assets/04b8d04c-6415-421d-9ccb-23444da8ddfc" />
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a66ac4af-ce07-438b-999e-ea5b364d3d55" 
        alt="Banner" 
