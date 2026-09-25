@@ -56,20 +56,14 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-C084FC?style=flat&logo=opencv&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-60A5FA?style=flat&logo=jupyter&logoColor=white)
 
-**Backend**
+**DevOps & Tools**
 
-![Python](https://img.shields.io/badge/Python-4FA8D8?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F4995C?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6FCF64?style=flat&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-4C7A57?style=flat&logo=django&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-FF6B7A?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5B8DEF?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-4EC5C1?style=flat&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5B9BF0?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6C7FE0?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4FA8D8?style=flat&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-B8963A?style=flat&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6C8FE0?style=flat&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-E08A3C?style=flat&logo=grafana&logoColor=white)
 
 **Databases**
 
@@ -79,14 +73,20 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 ![Oracle](https://img.shields.io/badge/Oracle-F4837E?style=flat&logo=oracle&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-4FB8C4?style=flat&logo=apachecassandra&logoColor=white)
 
-**DevOps & Tools**
+**Frontend**
 
-![Docker](https://img.shields.io/badge/Docker-5B9BF0?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6C7FE0?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4FA8D8?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-B8963A?style=flat&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6C8FE0?style=flat&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-E08A3C?style=flat&logo=grafana&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FF6B7A?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5B8DEF?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C9A227?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-4EC5C1?style=flat&logo=react&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-4FA8D8?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F4995C?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6FCF64?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4C7A57?style=flat&logo=django&logoColor=white)
 
 </div>
 
