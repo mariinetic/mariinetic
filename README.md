@@ -51,14 +51,6 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-C084FC?style=flat&logo=opencv&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-60A5FA?style=flat&logo=jupyter&logoColor=white)
 
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-5B9BF0?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6C7FE0?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-4FA8D8?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-B8963A?style=flat&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6C8FE0?style=flat&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-E08A3C?style=flat&logo=grafana&logoColor=white)
 
 **Databases**
 
@@ -67,6 +59,14 @@ I'm a Software Developer and early-career AI Engineer at Ericsson, currently pur
 ![MongoDB](https://img.shields.io/badge/MongoDB-5FBF8B?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F4837E?style=flat&logo=oracle&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-4FB8C4?style=flat&logo=apachecassandra&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-5B9BF0?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6C7FE0?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4FA8D8?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6C8FE0?style=flat&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-E08A3C?style=flat&logo=grafana&logoColor=white)
 
 **Frontend**
 
