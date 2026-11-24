@@ -109,6 +109,10 @@ I focus on **LLMs and AI agents**: I enjoy building **intelligent solutions** wi
 
 <br>
 
+<img width="1000" height="15" alt="divider" src="https://github.com/user-attachments/assets/04b8d04c-6415-421d-9ccb-23444da8ddfc" />
+
+<br> 
+
 ## `// estatísticas`
 
 <div align="center">
