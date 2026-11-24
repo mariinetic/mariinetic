@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=D6336C&center=true&vCenter=true&width=680&lines=AI+Engineer+%40+Ericsson;LLMs+%26+AI+Agents;NLP+%7C+Deep+Learning+%7C+Data+Science;Vamos+construir+algo+incr%C3%ADvel" alt="AI Engineer na Ericsson, LLMs e agentes de IA, NLP, Deep Learning e Data Science" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/oliveirasmari/"><img src="https://img.shields.io/badge/LinkedIn-E0507A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
 <a href="mailto:marianaoliveiray21@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF5C93?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -62,11 +62,6 @@ I focus on **LLMs and AI agents**: I enjoy building **intelligent solutions** wi
 </div>
 
 <br>
-
-- **Agentes de IA** e soluções baseadas em **LLMs**
-- **NLP** e processamento de linguagem natural
-- Integração com **bancos de dados** e **backends** em Python e Java
-- Entrega com **Docker**, **Kubernetes**, **Azure** e **GitHub Actions**
 
 <br>
 
