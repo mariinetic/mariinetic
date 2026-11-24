@@ -50,57 +50,21 @@ I focus on **LLMs and AI agents**: I enjoy building **intelligent solutions** wi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LLMs-FF7AAA?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/AI%20Agents-EC407A?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/NLP-F06292?style=flat-square&logo=huggingface&logoColor=white" alt="NLP"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-C2185B?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-<br>
-<img src="https://img.shields.io/badge/ML-FF8FB8?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/Data%20Science-E0507A?style=flat-square&logo=jupyter&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-FF5C93?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+<sub><b>LLMS E MODELOS</b></sub> <br> <img src="https://img.shields.io/badge/LLMs-FF7AAA?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/> <img src="https://img.shields.io/badge/Hugging%20Face-F06292?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-EC407A?style=flat-square" alt="Prompt Engineering"/> <img src="https://img.shields.io/badge/Fine--tuning%20(LoRA)-C2185B?style=flat-square" alt="Fine-tuning LoRA"/> <img src="https://img.shields.io/badge/Function%20Calling-FF8FB8?style=flat-square" alt="Function Calling"/>
+
+<sub><b>AGENTES E ORQUESTRAÇÃO</b></sub> <br> <img src="https://img.shields.io/badge/AI%20Agents-EC407A?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/> <img src="https://img.shields.io/badge/LangChain-D6336C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-FF5C93?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/CrewAI-E0507A?style=flat-square" alt="CrewAI"/> <img src="https://img.shields.io/badge/MCP-FF7AAA?style=flat-square" alt="MCP"/> <img src="https://img.shields.io/badge/Multi--Agent-C2185B?style=flat-square" alt="Multi-Agent"/>
+
+<sub><b>RAG E GRAPHRAG</b></sub> <br> <img src="https://img.shields.io/badge/RAG-F06292?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/GraphRAG-D6336C?style=flat-square" alt="GraphRAG"/> <img src="https://img.shields.io/badge/Knowledge%20Graphs-FF5C93?style=flat-square" alt="Knowledge Graphs"/> <img src="https://img.shields.io/badge/Neo4j-E0507A?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/> <img src="https://img.shields.io/badge/Embeddings-FF8FB8?style=flat-square" alt="Embeddings"/>
+
+<sub><b>BANCOS VETORIAIS</b></sub> <br> <img src="https://img.shields.io/badge/pgvector-C2185B?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/> <img src="https://img.shields.io/badge/FAISS-EC407A?style=flat-square" alt="FAISS"/> <img src="https://img.shields.io/badge/ChromaDB-FF7AAA?style=flat-square" alt="ChromaDB"/> <img src="https://img.shields.io/badge/Pinecone-F06292?style=flat-square" alt="Pinecone"/>
+
+<sub><b>NLP, ML E DADOS</b></sub> <br> <img src="https://img.shields.io/badge/NLP-F06292?style=flat-square&logo=huggingface&logoColor=white" alt="NLP"/> <img src="https://img.shields.io/badge/Deep%20Learning-C2185B?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning"/> <img src="https://img.shields.io/badge/ML-FF8FB8?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML"/> <img src="https://img.shields.io/badge/Data%20Science-E0507A?style=flat-square&logo=jupyter&logoColor=white" alt="Data Science"/> <img src="https://img.shields.io/badge/Computer%20Vision-FF5C93?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+<sub><b>AVALIAÇÃO E LLMOPS</b></sub> <br> <img src="https://img.shields.io/badge/MLflow-D6336C?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/> <img src="https://img.shields.io/badge/LLM%20Evaluation-EC407A?style=flat-square" alt="LLM Evaluation"/> <img src="https://img.shields.io/badge/Observabilidade-FF5C93?style=flat-square&logo=grafana&logoColor=white" alt="Observabilidade"/>
 
 </div>
 
 <br>
-
-<br>
-
-## `// stack de apoio`
-
-<div align="center">
-
-<sub><b>BACKEND</b></sub>
-<br>
-<img src="https://img.shields.io/badge/Python-D6336C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-FF7AAA?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-EC407A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Django-F06292?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-
-<sub><b>BANCOS DE DADOS</b></sub>
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-C2185B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-FF8FB8?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-E0507A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Oracle-FF5C93?style=flat-square" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Cassandra-D6336C?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
-
-<sub><b>DEVOPS E FERRAMENTAS</b></sub>
-<br>
-<img src="https://img.shields.io/badge/Docker-FF7AAA?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-EC407A?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Azure-F06292?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-C2185B?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Grafana-FF8FB8?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-
-<sub><b>FRONTEND</b></sub>
-<br>
-<img src="https://img.shields.io/badge/Vue.js-E0507A?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/Angular-FF5C93?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/TypeScript-D6336C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-FF7AAA?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-EC407A?style=flat-square&logo=react&logoColor=white" alt="React"/>
-
-</div>
 
 <br>
 
