@@ -82,8 +82,6 @@ I focus on **LLMs and AI agents**: I enjoy building **intelligent solutions** wi
 <img src="https://img.shields.io/badge/Spring%20Boot-EC407A?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Django-F06292?style=flat-square&logo=django&logoColor=white" alt="Django"/>
 
-<br><br>
-
 <sub><b>BANCOS DE DADOS</b></sub>
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-C2185B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -92,8 +90,6 @@ I focus on **LLMs and AI agents**: I enjoy building **intelligent solutions** wi
 <img src="https://img.shields.io/badge/Oracle-FF5C93?style=flat-square" alt="Oracle"/>
 <img src="https://img.shields.io/badge/Cassandra-D6336C?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
 
-<br><br>
-
 <sub><b>DEVOPS E FERRAMENTAS</b></sub>
 <br>
 <img src="https://img.shields.io/badge/Docker-FF7AAA?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -101,8 +97,6 @@ I focus on **LLMs and AI agents**: I enjoy building **intelligent solutions** wi
 <img src="https://img.shields.io/badge/Azure-F06292?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-C2185B?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Grafana-FF8FB8?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-
-<br><br>
 
 <sub><b>FRONTEND</b></sub>
 <br>
