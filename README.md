@@ -30,7 +30,6 @@ Oi, eu sou a **Mariana**. Trabalho como **Software Developer** e **AI Engineer e
 
 Meu foco são **LLMs e agentes de IA**: gosto de construir **soluções inteligentes** com modelos de linguagem e conectá-las a **sistemas backend** e **bancos de dados**, sempre aprendendo e aceitando novos desafios.
 
-> *Let's build something amazing together.*
 
 <br clear="right">
 
